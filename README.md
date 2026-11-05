@@ -65,8 +65,8 @@ EmployeeManagementSystem
 
 The project uses MySQL as its database.
 
-1. Open MySQL Workbench or phpMyAdmin.
-2. Create a database named `ems`.
+1. Open MySQL 
+2. Create a database named `ems_db`.
 3. Create the required employee and department tables.
 4. Configure your database username and password in `DBConnection.java`.
 5. Add MySQL Connector/J to the project libraries.
