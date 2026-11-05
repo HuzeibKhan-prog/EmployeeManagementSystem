@@ -1,9 +1,10 @@
-/build/
-/dist/
-/target/
-/nbproject/private/
+build/
+dist/
+target/
+nbproject/private/
 .nb-attrs
 .DS_Store
 Thumbs.db
 ehthumbs.db
 *.class
+build.xml
