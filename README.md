@@ -137,6 +137,11 @@ Department & Salary
 
 <img width="906" height="309" alt="image" src="https://github.com/user-attachments/assets/51c71e76-9565-4c80-b477-5958db8d2548" />
 
+Database Storage
+
+<img width="544" height="368" alt="image" src="https://github.com/user-attachments/assets/64e1c04a-e443-4fb7-b1a7-84806aef6516" />
+
+
 ## ⚙️ How to Run the Project
 
 1. Clone or download this repository.
